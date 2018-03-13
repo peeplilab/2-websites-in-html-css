@@ -1,0 +1,146 @@
+body {
+	background-color: #3C3744;
+	color: #3ed;
+	font-family:"Abel", monospace;
+	font-size: 18px;
+	text-align:justify;
+}
+
+h1,h2 {
+	font-family: "Impact";
+	text-transform: uppercase;
+	margin: 0px;
+	padding: 0px;
+	color: #FBFFF1;
+	text-align: justify;
+}
+h1	{
+	color:#B4C5E4;
+	letter-spacing: 5px;
+	line-height:150px;
+	text-align: center;
+}
+
+h2 {
+	letter-spacing: 5px;
+	text-align: center;
+	font-size:3em;
+	color:#B4C5E4;
+}
+
+#firstSection {
+	color:#B4C5E4;
+	width: 1000px;
+	overflow:hidden;
+	margin:0px auto;
+	padding: 30px 30px;
+}
+#lastSection {
+	color:#B4C5E4;
+	width: 1000px;
+	overflow:hidden;
+	margin:0px auto;
+	padding: 30px 30px;
+}
+p {
+	text-size:23px;
+}
+
+#sixColumns {
+	overflow:hidden;
+	width:1000px;
+	margin: 0px auto;
+	padding:30px 30px;
+}
+
+#sixColumns #column1 {
+	float: left;
+	width:300px;
+	margin-right:50px;
+}
+#sixColumns #column2 {
+	float: left;
+	width:300px;
+	margin-right:50px;
+}
+#sixColumns #column3 {
+	float: right;
+	width:300px;
+} 
+#sixColumns #column4 {
+	float: left;
+	width:300px;
+	margin-right:50px;
+}
+#sixColumns #column5 {
+	float: left;
+	width:300px;
+	margin-right:50px;
+}
+#sixColumns #column6 {
+	float: right;
+	width:300px;
+} 
+#full {
+
+}
+#firstSectionFullWidth {
+		background-color: #3D52D5;
+
+}
+#lastSectionFullWidth {
+		background-color: #3D52D5;
+
+}
+#logo h1 {
+	line-height:250px;
+	width:1000px auto;
+	font-size:8em;
+}
+
+#column1 p1:before {
+	font-family: "FontAwesome";
+	content:"\f2de";
+	font-size: 150px;
+	display: block;
+	text-align: center;
+}
+
+#column2 p2:before {
+	font-family: "FontAwesome";
+	content:"\f24e";
+	font-size: 150px;
+	display: block;
+	text-align: center;
+}
+#column3 p3:before {
+	font-family: "FontAwesome";
+	content:"\f2cd";
+	font-size: 150px;
+	display: block;
+	text-align: center;
+}
+#column4 p4:before {
+	font-family: "FontAwesome";
+	content:"\f004";
+	font-size: 150px;
+	display: block;
+	text-align: center;
+}
+#column5 p5:before {
+	font-family: "FontAwesome";
+	content:"\f2d6";
+	font-size: 150px;
+	display: block;
+	text-align: center;
+}
+#column6 p6:before {
+	font-family: "FontAwesome";
+	content:"\f2cc";
+	font-size: 150px;
+	display: block;
+	text-align: center;
+}
+span {
+	color:#3ed;
+}

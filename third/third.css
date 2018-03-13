@@ -1,0 +1,116 @@
+body {
+	background-color: #111111;
+	color: #6F8C21;
+	font-family: "Abel", sans-serif;
+	font-size: 20px;
+	text-align: justify;
+}
+h1,h2{
+	font-family: "Gill Sans MT";
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 0px;
+	padding: 0px;
+	color: #6F8C21;
+	text-align: center;
+}
+
+h2 {
+	color:#16BEBB;
+}
+
+#header {
+	width: 1000px;
+	margin: 50px auto;
+}
+#logo h1 {
+		line-height: 150px;
+		width:1000px;
+		font-size:4em;
+}
+#sixcolumns {
+	overflow: hidden;
+	width:1000px;
+	margin: 0px auto;
+	padding: 30px 30px;
+}
+#sixcolumns #column1 {
+	float: left;
+	width: 300px;
+	margin-right: 50px;
+}
+#sixcolumns #column2 {
+	float: left;
+	width: 300px;
+}
+#sixcolumns #column3 {
+	float: right;
+	width: 300px;
+}
+#sixcolumns #column4 {
+	float: left;
+	width: 300px;
+	margin-right: 50px;
+}
+#sixcolumns #column5 {
+	float: left;
+	width: 300px;
+}
+#sixcolumns #column6 {
+	float: right;
+	width: 300px;
+
+}
+#column1 p1:before {
+font-family: 'FontAwesome';
+content: "\f0c9";
+font-size:150px;
+display: block;
+text-align: center;
+color:#E4572E;
+
+}
+#column2 p2:before {
+font-family: 'FontAwesome';
+content: "\f0ac";
+font-size:150px;
+display: block;
+text-align: center;
+color:#E4572E;
+
+}
+#column3 p3:before {
+font-family: 'FontAwesome';
+content: "\f0c9";
+font-size:150px;
+display: block;
+color:#E4572E;
+
+text-align: center;
+}
+#column4 p4:before {
+font-family: 'FontAwesome';
+content: "\f003";
+font-size:150px;
+display: block;
+color:#E4572E;
+
+text-align: center;
+}
+#column5 p5:before {
+font-family: 'FontAwesome';
+content: "\f095";
+font-size:150px;
+display: block;
+text-align: center;
+color:#E4572E;
+
+}
+#column6 p6:before {
+font-family: 'FontAwesome';
+content: "\f022";
+font-size:150px;
+display: block;
+text-align: center;
+color:#E4572E;
+}

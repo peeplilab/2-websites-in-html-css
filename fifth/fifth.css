@@ -1,0 +1,54 @@
+body {
+	background-color: #253D5B;
+	color:#C6878F;
+	font-family: "Abel", monospace;
+	font-size: 20px;
+}
+h1,h2 {
+	color:#C6878F;
+	text-transform: uppercase;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+h2 {
+	font-size: 3em;
+}
+.sectionContent{
+	width:1000px;
+	overflow: hidden;
+	margin: 0px auto;
+	padding: 30px 30px;
+}
+#section1 {
+	background-color:#67697C;
+
+}
+#section3 {
+	background-color:#67697C;
+
+}
+#section5 {
+	background-color:#67697C;
+
+}
+#logo h1 {
+	line-height: 100px;
+	width: 1000px auto;
+	font-size: 6em;
+	padding: 30px 30px;
+	font-stretch: ultra-condensed;
+	letter-spacing: -20px;
+}
+#darkBlue {
+	color:#67697C;
+}
+#whiteColor {
+	color: #253D5B;
+}
+#logoWhite{
+	color: #67697C;
+}
+p {
+	font-size: 22px;
+}
